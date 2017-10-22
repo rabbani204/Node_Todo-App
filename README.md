@@ -1,4 +1,4 @@
 # nodetodoapp
-# nodetodo
-# nodetodo
-# nodetodo
+
+A Simple nodetodo app 
+
